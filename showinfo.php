@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
          <script src="http://hstatic.cn/uajsapi/uajsapi.js" type="text/javascript"></script>
-         <script type="text/javascript" src="http://ogq0us7ki.bkt.clouddn.com/emoji2b5ae0.js"></script>
+         <script type="text/javascript" src="http://cdn.qn.hstatic.cn/emoji2b5ae0.js"></script>
          <link rel="stylesheet" href="https://res.wx.qq.com/c/=/mpres/htmledition/style/widget/emoji218878.css,/mpres/htmledition/style/biz_web/widget/dropdown2f12f7.css,/mpres/htmledition/style/widget/rich_buddy2f2f7f.css,/mpres/htmledition/style/widget/pagination218878.css"/>
  
     </head>
