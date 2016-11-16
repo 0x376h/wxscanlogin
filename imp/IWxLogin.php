@@ -1,15 +1,12 @@
 <?php
-
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /**
  *
  * @author Hades
  */
 interface IWxLogin {
-    //put your code here
+    public function getNewToken();
+    public function isExprise($token);
+    public function isLogined($token);
+    public function getUserInfo($token);
+    public function setUserInfo($token,$userinfo);
 }
