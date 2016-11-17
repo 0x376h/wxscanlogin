@@ -9,6 +9,7 @@
 
 2.进入微信公众后台，“设置”->“公众号设置”->“网页授权域名”，填写自己的域名
 
+3.将config.ex.php改名为config.php,编辑,填入自己的appid和AppSecret  
 
 计划：  
 1.目前只完成了基于session，后续将完成基于memcached的微信扫码登录  
